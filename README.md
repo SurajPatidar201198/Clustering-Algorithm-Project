@@ -1,6 +1,6 @@
-# Clustering-Algorithm-Project
+# Clustering-Algorithms-Project
 
-In this Project I have used different Clustering Algorithms to predict the difficulty level a perticular subject on the basis of marks that  student got in there continious assesments and end term exam.
+In this Project I have used different Clustering Algorithms to predict the difficulty level a particular subject for a particular student on the basis of marks that student got in there continious assesments and end term exam.
 
 #### I have used 3 different clustering algorithms here : 
 #### 1) KMeans which is giving silhouette_score of approx 45.
